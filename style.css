@@ -1,0 +1,48 @@
+body {
+background-color: #EBE1E1;
+}
+
+.container {
+    width: 80%;
+    margin-inline: auto;
+    max-width: 1140px;
+}
+
+.bio-img img {
+   box-shadow: 7.5pt 10px 18.75pt #525252;
+   max-width: 300px;
+}
+
+.bio-content h1 {
+    color: #02027B;
+}
+
+a{
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+hr {
+    width: 20%;
+    overflow: hidden;
+    border-top: 5px #B52580 dotted;
+    box-sizing: content-box;
+    opacity: 1;
+    margin: auto;
+
+}
+
+.portfolio img {
+    box-shadow: 7.5pt 10px 18.75pt #525252;
+}
+
+.card-content p {
+    min-height: 5em;
+}
+
+h3 {
+    color: #02027B;
+}
